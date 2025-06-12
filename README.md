@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/allannjuguna/SSH-Parser/ssh-parser.git
+git clone https://github.com/allannjuguna/SSH-Parser.git
 cd ssh-parser
 ```
 
